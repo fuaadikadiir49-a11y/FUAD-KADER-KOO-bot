@@ -1,3 +1,1 @@
-pyrogram
-tgcrypto
-
+pip install -r requirements.txt
